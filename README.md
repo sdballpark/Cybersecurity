@@ -1,6 +1,9 @@
 # 🕶️💻 Top 20 GitHub Repositories Every Cybersecurity Pro Should Know
 
 Explore a curated list of 🔐 cybersecurity tools, frameworks, and resources—perfect for red teamers, blue teamers, and full-stack defenders. From payloads to patching, this list has your six. 👨‍💻👩‍💻
+**Enjoy these links!**  
+— RobertB  
+[LinkedIn](https://www.linkedin.com/in/robert-l-bogan-jr) | [Email](mailto:sdballpark@gmail.com)
 
 ---
 
