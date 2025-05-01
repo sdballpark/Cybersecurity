@@ -18,7 +18,7 @@ Explore a curated list of 🔐 cybersecurity tools, frameworks, and resources—
 3. 🛡️ [**Awesome Penetration Testing**](https://github.com/enaqx/awesome-pentest)  
    🧰 Full-stack list of pentesting tools, labs, and reading materials.
 
-4. ⚔️ [**The Art of Hacking**](https://github.com/ZeroFox-Research/The-Art-of-Hacking)  
+4. ⚔️ [**The Art of Hacking**](https://github.com/The-Art-of-Hacking/h4cker)  
    📚 Offensive security training and references by the ZeroFox research team.
 
 5. 🧑‍💻 [**Awesome Ethical Hacking Tutorials**](https://github.com/enaqx/awesome-ethical-hacking)  
